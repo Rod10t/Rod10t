@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi ther 👋
 Eu sou o Rodrigo Monteiro
-Atualmente trabalho no setor público.
-Estou aprendendo ciência de dados
+:grinning: 
+Atualmente trabalho no setor publico:postbox:(CORREIOS)
+Estou aprendendo constantemente ciência de dados:computer:
